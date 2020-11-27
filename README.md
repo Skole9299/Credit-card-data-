@@ -4,4 +4,4 @@
 ### Regression
 ### Classification
 
-Take a look at the ppx file for a summary!
+Take a look at the pptx file for a summary!
